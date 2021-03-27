@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Margarita Puzanova](https://up.htmlacademy.ru/adaptive/22/user/1712049).
-* Наставник: `Артур Трифонов` (https://htmlacademy.ru/profile/id20140).
+* Наставник: [Артур Трифонов] (https://htmlacademy.ru/profile/id20140).
 
 ---
 
